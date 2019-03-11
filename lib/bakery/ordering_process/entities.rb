@@ -1,0 +1,8 @@
+require_relative "./entities/base"
+require_relative "./entities/order"
+require_relative "./entities/product_pack"
+require_relative "./entities/package_item"
+require_relative "./entities/package"
+require_relative "./entities/packages"
+require_relative "./entities/product"
+require_relative "./entities/order_item"

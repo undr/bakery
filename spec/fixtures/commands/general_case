@@ -1,0 +1,12 @@
+add 20 VS5
+add 14 MB11
+reset
+add 5 VS5
+add 14 MB11
+add 5 VS5
+add 13 CF
+rem MB11
+add 12 CF2
+add 22 RPAN1
+report
+prepack

@@ -1,0 +1,18 @@
+Empty order
+We cannot pack empty order
+10	VS5	Vegemite Scroll
+11	CF	Croissant
+15	CF2	Origin French Croissant
+22	RPAN1	Russian Pancakes
+
+WARNING! We cannot pack all products.
+10	VS5	$17.98
+	2 x 5	$8.99
+11	CF
+	We cannot pack this order item.
+	Please, increase or reduce quantity of the product.
+15	CF2	$29.85
+	3 x 5	$9.95
+22	RPAN1	$51.93
+	2 x 9	$19.99
+	1 x 4	$11.95
